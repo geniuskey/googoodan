@@ -1,0 +1,11 @@
+# Build results
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.idea
+
+# Environments
+venv/
+.venv/

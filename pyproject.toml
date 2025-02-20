@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "googoodan"
+version = "0.1.0"
+description = "CLI 구구단 게임"
+readme = "README.md"
+authors = [{ name = "Euiyun Kim", email = "geniuskey@gmail.com" }]
+license = { text = "MIT" }
+dependencies = [
+    "terminaltexteffects"
+]
+
+[project.scripts]
+googoodan = "googoodan.game:googoodan_game"
