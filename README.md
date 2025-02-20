@@ -9,4 +9,4 @@ pip install googoodan
 ```bash
 googoodan
 ```
-![CLI 구구단](googoodan_cli.gif)
+![CLI 구구단](https://github.com/geniuskey/googoodan/raw/main/googoodan_cli.gif)
